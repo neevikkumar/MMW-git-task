@@ -1,8 +1,8 @@
-\# Practical Assignment – Git \& Collaboration Task
+# Practical Assignment – Git \& Collaboration Task
 
 
 
-\## Objective
+## Objective
 
 
 
@@ -10,27 +10,27 @@ This task is designed to evaluate:
 
 
 
-\- Basic Git usage
+- Basic Git usage
 
-\- Ability to follow instructions
+- Ability to follow instructions
 
-\- Problem-solving approach
+- Problem-solving approach
 
-\- Documentation skills
+- Documentation skills
 
-\- Attention to detail
-
-
-
-\---
+- Attention to detail
 
 
 
-\# Task Instructions
+---
 
 
 
-\## Step 1 — Fork or Clone Repository
+# Task Instructions
+
+
+
+## Step 1 — Fork or Clone Repository
 
 
 
@@ -38,11 +38,11 @@ Fork or clone this repository to your local machine.
 
 
 
-\---
+---
 
 
 
-\## Step 2 — Create a New Branch
+## Step 2 — Create a New Branch
 
 
 
@@ -70,11 +70,11 @@ lakshman-task
 
 
 
-\---
+---
 
 
 
-\## Step 3 — Make Changes
+## Step 3 — Make Changes
 
 
 
@@ -82,7 +82,7 @@ Inside the repository, complete the following tasks.
 
 
 
-\### A. Create an `about-me.md` File
+### A. Create an `about-me.md` File
 
 
 
@@ -102,43 +102,43 @@ The file should include:
 
 
 
-\- Your name
+- Your name
 
-\- College \& department
+- College \& department
 
-\- Interests
+- Interests
 
-\- Why you applied for this internship
+- Why you applied for this internship
 
-\- One technology/tool you want to learn this year
-
-
-
-\---
+- One technology/tool you want to learn this year
 
 
 
-\### B. Improve Something in the Repository
+---
 
 
 
-Do \*\*ONE\*\* of the following:
+### B. Improve Something in the Repository
 
 
 
-\- Improve the README
+Do **ONE** of the following:
 
-\- Add a useful resource section
 
-\- Fix typos
 
-\- Improve formatting
+- Improve the README
 
-\- Add a small feature/page
+- Add a useful resource section
 
-\- Improve UI slightly
+- Fix typos
 
-\- Add better documentation
+- Improve formatting
+
+- Add a small feature/page
+
+- Improve UI slightly
+
+- Add better documentation
 
 
 
@@ -146,11 +146,11 @@ We want to see initiative, not perfection.
 
 
 
-\---
+---
 
 
 
-\## Step 4 — Commit Properly
+## Step 4 — Commit Properly
 
 
 
@@ -158,7 +158,7 @@ Use meaningful commit messages.
 
 
 
-\### Good Example
+### Good Example
 
 
 
@@ -170,7 +170,7 @@ git commit -m "Added about-me file and improved README formatting"
 
 
 
-\### Bad Example
+### Bad Example
 
 
 
@@ -182,11 +182,11 @@ git commit -m "update"
 
 
 
-\---
+---
 
 
 
-\## Step 5 — Push to GitHub
+## Step 5 — Push to GitHub
 
 
 
@@ -194,11 +194,11 @@ Push your branch to your GitHub repository.
 
 
 
-\---
+---
 
 
 
-\## Step 6 — Submit
+## Step 6 — Submit
 
 
 
@@ -206,19 +206,19 @@ Submit the following:
 
 
 
-\- GitHub repository link
+- GitHub repository link
 
-\- Branch name
+- Branch name
 
-\- Short explanation of what you changed
-
-
-
-\---
+- Short explanation of what you changed
 
 
 
-\# Evaluation Criteria
+---
+
+
+
+# Evaluation Criteria
 
 
 
@@ -226,21 +226,21 @@ You will be evaluated based on:
 
 
 
-\- Git usage
+- Git usage
 
-\- Clean commit practices
+- Clean commit practices
 
-\- Ability to follow instructions
+- Ability to follow instructions
 
-\- Clarity of documentation
+- Clarity of documentation
 
-\- Initiative and creativity
+- Initiative and creativity
 
-\- Repository cleanliness
+- Repository cleanliness
 
 
 
-\---
+---
 
 
 
@@ -252,37 +252,37 @@ Optional but appreciated:
 
 
 
-\- Multiple clean commits
+- Multiple clean commits
 
-\- Better README formatting
+- Better README formatting
 
-\- Extra improvements
+- Extra improvements
 
-\- Proper markdown usage
+- Proper markdown usage
 
-\- Screenshots/GIFs
+- Screenshots/GIFs
 
-\- Good folder structure
-
-
-
-\---
+- Good folder structure
 
 
 
-\# Important Notes
+---
 
 
 
-\- You are allowed to use Google, but we prefer you not to use any AI models. 
-
-\- We are \*\*NOT\*\* testing memorization.
-
-\- We are testing your ability to learn, execute, and communicate.
+# Important Notes
 
 
 
-\---
+- You are allowed to use Google, but we prefer you not to use any AI models. 
+
+- We are **NOT** testing memorization.
+
+- We are testing your ability to learn, execute, and communicate.
+
+
+
+---
 
 
 
